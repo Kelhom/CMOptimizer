@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoMinesOptimizer", "CryptoMinesOptimizer\CryptoMinesOptimizer.csproj", "{237D7EB9-4968-44A2-A1A0-9C85DCEA8675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237D7EB9-4968-44A2-A1A0-9C85DCEA8675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237D7EB9-4968-44A2-A1A0-9C85DCEA8675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237D7EB9-4968-44A2-A1A0-9C85DCEA8675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237D7EB9-4968-44A2-A1A0-9C85DCEA8675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41DB01EF-7DEC-46CA-988C-93F069BE301F}
+	EndGlobalSection
+EndGlobal
